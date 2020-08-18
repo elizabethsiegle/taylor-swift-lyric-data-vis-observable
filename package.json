@@ -1,0 +1,14 @@
+{
+  "name": "a8c1a1de523f125f",
+  "main": "a8c1a1de523f125f@490.js",
+  "version": "490.0.0",
+  "homepage": "https://observablehq.com/d/a8c1a1de523f125f",
+  "author": {
+    "name": "Lizzie Siegle",
+    "url": "https://observablehq.com/@elizabethsiegle"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
